@@ -36,4 +36,4 @@
 > **Note:** To protect intellectual property and the core DSP engine, the complete source code of this project is maintained in a **Private Repository**. The purpose of this repository is to showcase the architecture, UI design, and technical capabilities of the project.
 >
 > 為了保護專案智財權與核心音訊引擎邏輯，本專案的完整程式碼存放於私有儲存庫中。此公開儲存庫僅作為作品集展示用途。
-*Designed & Developed by [ＣＹＸ/CYX Studio]*
+*Designed & Developed by [CYX/CYX Studio]*
