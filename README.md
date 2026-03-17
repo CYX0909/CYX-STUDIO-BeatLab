@@ -4,7 +4,7 @@
 >
 > 結合高階實體硬體質感與現代 Web Audio DSP 技術的專業數位節拍器。
 
-🔗 [**Live Demo: 點此體驗 Beatlab (需輸入專屬 Access Code)**](https://cyx-studio-beat-lab-git-main-cyx0909s-projects.vercel.app/)
+🔗 [**Live Demo: 點此體驗 Beatlab (需輸入專屬 Access Code)**](https://cyx-studio-beat-lab-private.vercel.app/)
 
 ## ✨ 核心特色 (Features)
 * **頂級硬體視覺設計 (Premium Hardware UI)**
